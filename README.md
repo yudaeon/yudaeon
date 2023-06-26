@@ -1,4 +1,3 @@
-- ✨👋 Hi💞️, I’m @yudaeon 
-- 🌱 I’m currently learning Web programming
+- 👋 Hi, I’m daeon 
 - 📫 How to reach me daeon03050@gmail.com
 - ✨ gitblog https://yudaeon.github.io/
